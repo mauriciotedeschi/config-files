@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<map name="AssignmentPanels">
+		<value name="InfoPopupVisible">false</value>
+	</map>
+	<map name="Backup">
+		<value name="Version">4.21.173</value>
+	</map>
+	<map name="CommonSettings">
+		<value name="DemoDeviceModeEnabled">false</value>
+	</map>
+	<map name="DataCollectionSettings">
+		<value name="first_appearance_at">2022-03-17T01:57:30.330Z</value>
+		<value name="first_icue_ver">4.21.173</value>
+		<value name="inited">true</value>
+		<value name="previous_close_timestamp">1658587499087</value>
+		<value name="session_ended">true</value>
+		<value name="total_icue_starts">14</value>
+		<value name="total_time_used">424713685</value>
+		<value name="user_id">0337e875391c1771c63ca0250658e0c926ebd174731c9dd6ecf9ef124cd27074</value>
+	</map>
+	<map name="DeviceListWatcher">
+		<map name="device_list">
+			<map name="1">
+				<value name="device_id">5059a1372a885844a2989714d62089a5</value>
+				<value name="device_type">15</value>
+				<value name="is_connected">true</value>
+				<value name="is_corsair">false</value>
+				<value name="last_appearance">2022-07-23T10:44:58.657</value>
+				<value name="model_name">Apple Internal Keyboard / Trackpad</value>
+				<value name="pid">0</value>
+				<value name="serial_number">FM7128605RTHYYKCF+TTZ</value>
+				<value name="vid">832</value>
+			</map>
+			<map name="2">
+				<value name="device_id">8c3bde954a2260f148f942a416702c74</value>
+				<value name="device_type">1</value>
+				<value name="is_connected">false</value>
+				<value name="is_corsair">false</value>
+				<value name="last_appearance"></value>
+				<value name="model_name">USB Optical Mouse </value>
+				<value name="pid">0</value>
+				<value name="serial_number"></value>
+				<value name="vid">83</value>
+			</map>
+			<map name="3">
+				<value name="device_id">e1901ce145c27b0959a86efc4ab044e0</value>
+				<value name="device_type">1</value>
+				<value name="is_connected">false</value>
+				<value name="is_corsair">true</value>
+				<value name="last_appearance"></value>
+				<value name="model_name">K70 RGB MK.2</value>
+				<value name="pid">0</value>
+				<value name="serial_number">11027022AF1584275961632EF5001BC1</value>
+				<value name="vid">0</value>
+			</map>
+			<value name="size">3</value>
+		</map>
+		<value name="device_list_saved_correctly">true</value>
+	</map>
+	<map name="Devices">
+		<map name="K70 RGB MK.2">
+			<map name="{7030ee46-c0ac-4d53-b5e7-eaf34decac33}">
+				<value name="BrightnessLevel">100</value>
+				<value name="DeviceName">K70 RGB MK.2</value>
+				<value name="FirstDetected">2022-03-17T11:25:05.001Z</value>
+				<binary name="Layout">%00%00%04%00%00%00%00%00%1Ccue%3A%3Aglobal%3A%3AKeyboardLayout%00%00%00%00%02%002</binary>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelExtensionsTypes">%00%00%04%00%00%00%00%006QVector%3CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%20%3E%00%00%00%00%01%00%00%00%00</binary>
+				<binary name="LedChannelSynchronizations">%00%00%04%00%00%00%00%00%0EQVector%3Cbool%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypeCombinations">%00%00%04%00%00%00%00%006QVector%3CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%20%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%01%00%00%00%0CNotConnected</binary>
+				<value name="UniqueDeviceId">{9e73769d-284f-4585-a766-fe248c2ed933}</value>
+			</map>
+		</map>
+		<binary name="UniqueDeviceIds">%00%00%04%00%00%00%00%005QHash%3CQUuid%2CUniqueDeviceIdStorage%3A%3AUniqueDeviceData%3E%00%00%00%00%01p0%EEF%C0%ACMS%B5%E7%EA%F3M%EC%AC3%00%00%1B%1C%00%00%1BI%00%00%00%40%001%001%000%002%007%000%002%002%00A%00F%001%005%008%004%002%007%005%009%006%001%006%003%002%00E%00F%005%000%000%001%00B%00C%001%FF%FF%FF%FF</binary>
+	</map>
+	<map name="HWPInfoPopup">
+		<value name="InfoPopupVisible">false</value>
+	</map>
+	<map name="InfoPanel">
+		<value name="KeyboardInfoPanelWasShown">true</value>
+	</map>
+	<value name="Language">en</value>
+	<map name="LastDir">
+		<value name="ProfileProgramLink">/Applications</value>
+	</map>
+	<value name="LastLoadedAppVersion">4.21.173</value>
+	<map name="LedQuickSelection">
+		<map name="Default">
+			<map name="{7030ee46-c0ac-4d53-b5e7-eaf34decac33}">
+				<map name="0">
+					<map name="NotConnected">
+						<map name="software">
+							<map name="NotConnected">
+								<map name="active">
+									<map name="0">
+										<map name="custom">
+											<binary name="id">%00%00%00%09%00%00%00%00%00</binary>
+										</map>
+										<map name="default">
+											<binary name="id">%00%00%00%09%00%00%00%00%01%00%00%00%02%00%00%00%00%00</binary>
+										</map>
+									</map>
+								</map>
+							</map>
+						</map>
+					</map>
+				</map>
+			</map>
+		</map>
+		<map name="rainbow">
+			<map name="{7030ee46-c0ac-4d53-b5e7-eaf34decac33}">
+				<map name="0">
+					<map name="NotConnected">
+						<map name="software">
+							<map name="NotConnected">
+								<map name="active">
+									<map name="0">
+										<map name="custom">
+											<binary name="id">%00%00%00%09%00%00%00%00%00</binary>
+										</map>
+										<map name="default">
+											<binary name="id">%00%00%00%09%00%00%00%00%01%00%00%00%02%00%00%00%00%00</binary>
+										</map>
+									</map>
+									<map name="1">
+										<map name="custom">
+											<binary name="id">%00%00%00%09%00%00%00%00%00</binary>
+										</map>
+										<map name="default">
+											<binary name="id">%00%00%00%09%00%00%00%00%01%00%00%00%02%00%00%00%00%00</binary>
+										</map>
+									</map>
+								</map>
+							</map>
+						</map>
+					</map>
+				</map>
+			</map>
+		</map>
+		<map name="wc">
+			<map name="{7030ee46-c0ac-4d53-b5e7-eaf34decac33}">
+				<map name="0">
+					<map name="NotConnected">
+						<map name="software">
+							<map name="NotConnected">
+								<map name="active">
+									<map name="0">
+										<map name="custom">
+											<binary name="id">%00%00%00%09%00%00%00%00%00</binary>
+										</map>
+										<map name="default">
+											<binary name="id">%00%00%00%09%00%00%00%00%01%00%00%00%02%00%00%00%00%00</binary>
+										</map>
+									</map>
+								</map>
+							</map>
+						</map>
+					</map>
+				</map>
+			</map>
+		</map>
+	</map>
+	<map name="LightingLibraryStorage">
+		<value name="version">401</value>
+	</map>
+	<map name="Lightings">
+		<map name="Instant">
+			<value name="Enabled">false</value>
+		</map>
+	</map>
+	<map name="Profiles">
+		<binary name="StoredToDevice">%00%00%00%09%00%00%00%00%03%00%00%00%1E%00I%1B%00%00%01%00%00%00%00%00%00%00%00%00%00%00%00%00%00%1E%00I%1B%00%00%02%00%00%00%00%00%00%00%00%00%00%00%00%00%00%1E%00I%1B%00%00%03%00%00%00%00%00%00%00%00%00%00%00</binary>
+	</map>
+	<map name="QQControlsFileDialog">
+		<binary name="favoriteFolders">%00%00%00%09%00%00%00%00%00</binary>
+		<value name="height">0</value>
+		<value name="sidebarSplit">139.5</value>
+		<value name="sidebarVisible">true</value>
+		<value name="sidebarWidth">80</value>
+		<value name="width">0</value>
+	</map>
+	<map name="Scenes">
+		<value name="ActiveSceneId">{00000000-0000-0000-0000-000000000000}</value>
+		<value name="DefaultScenesInitialized">true</value>
+	</map>
+	<map name="SensorLogging">
+		<value name="DurationEnabled">false</value>
+		<value name="DurationInMin">5</value>
+		<value name="Folder">/Users/MauricioTedeschi/Documents</value>
+		<value name="IntervalInSec">5</value>
+		<value name="LoggingStarted">false</value>
+		<binary name="SensorSet">%00%00%04%00%00%00%00%00%1CQSet%3Csensor_util%3A%3ASensorId%3E%00%00%00%00%00</binary>
+	</map>
+	<map name="SwUpdate">
+		<value name="LastCheckDate">2022-07-25</value>
+	</map>
+	<map name="Update">
+		<value name="UpdateCount">1</value>
+	</map>
+	<value name="defaultProfile">{6cd71b5b-3931-40b3-b349-10604b36d69e}</value>
+</config>
